@@ -1,68 +1,161 @@
-Great! Here's a **GitHub profile README** in Markdown for your GitHub account: [`https://github.com/SafehEmmanuela`](https://github.com/SafehEmmanuela).
+<div align="center"> 
+  <img height="150" src="https://ibb.co/r2nzdbY9" />
+</div>
 
-To use it:
+###
 
-1. Create a new **public repository** named exactly: `SafehEmmanuela`.
-2. Add a `README.md` file and paste the code below into it.
+<div align="center">
+  <a href="https://www.linkedin.com/in/manjoah-emmanuella-36014b2aa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="mailto:safehemmanuella@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=FF6B6B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+</div>
 
----
+###
 
-### ✅ `README.md` (Markdown code)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SafehEmmanuela.SafehEmmanuela" />
+</div>
 
-```markdown
-# 👋 Hi there, I'm Safeh Emmanuela!
+###
 
-Welcome to my GitHub profile! I'm passionate about tech, learning, and building cool projects.  
-I enjoy exploring new technologies and turning ideas into working code.
+<h1 align="center">Hey there! 👋 I'm Safeh Emmanuela Manjoah</h1>
 
----
+###
 
-## 🌱 About Me
+<h3 align="center">🚀 Generative AI student from Bamenda, Cameroon 🌟</h3>
 
-- 🎓 I'm a developer interested in software development, web technologies, and AI
-- 🌐 Currently exploring: **[insert latest tech you're learning, e.g., React, Python, etc.]**
-- 🔧 Working on: **[insert your current project or idea]**
-- 💡 Always looking to improve and collaborate on meaningful projects
-- 📍 From: Cameroon 🇨🇲
+###
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Generative+AI+Enthusiast;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
 
-## 🚀 Tech Stack & Tools
+<br clear="both">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 🎯 About Me
 
----
+👩‍💻 I'm **Safeh Emmanuela Manjoah**, a passionate student in the field of **Generative AI** based in **Bamenda, Cameroon**.  
+💡 I love working on AI-powered tools, learning about machine learning, and collaborating on innovative projects.  
+🎓 Currently expanding my knowledge in AI model development, cloud integration, and data science.  
+🌍 I’m enthusiastic about the transformative power of technology in Africa and the world!
 
-## 📊 GitHub Stats
+###
 
-![SafehEmmanuela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafehEmmanuela&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafehEmmanuela&layout=compact)
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-## 📫 Let's Connect
+### Languages
+<img src="https://skillicons.dev/icons?i=python,html,css" height="40" alt="programming languages" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com) <!-- Replace with your actual LinkedIn URL -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com) <!-- Replace with your email -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://github.com/SafehEmmanuela)
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=fastapi,react,tensorflow" height="40" alt="frameworks" />
 
----
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,figma,vscode" height="40" alt="tools" />
 
-> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-```
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,aws" height="40" alt="databases and cloud" />
 
----
+</div>
 
-Would you like me to personalize this further with:
+###
 
-* Your actual **email** or **LinkedIn**?
-* A real **project** or **tech stack** you’re using?
-* A short **bio**?
+## 🚀 Featured Projects
 
-Let me know — I’ll update it for you!
-# Safeh-Emmanuela-Manjoah
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🎯 **AI Portfolio Generator** | A tool to build AI-generated portfolio sites | React, GPT-4, Firebase | [🔗 View Project](https://your-project-link.com) |
+| 🚀 **Cameroon Weather Bot** | Telegram bot for real-time weather updates | Python, OpenWeatherMap API | [🔗 View Project](https://your-project-link.com) |
+| 💡 **StudySync** | Platform for collaborative AI-powered note-taking | FastAPI, MongoDB, Tailwind | [🔗 View Project](https://your-project-link.com) |
+
+</div>
+
+###
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **AI Hackathon Finalist** - Developed a chatbot to assist local farmers
+- 📜 **DeepLearning.AI Certification** - Coursera, 2025
+- 🎖️ **GitHub Campus Expert Nominee** - Community leadership & open-source work
+
+###
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SafehEmmanuela&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SafehEmmanuela&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafehEmmanuela&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafehEmmanuela&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</div>
+
+###
+
+## 🎭 Fun Zone
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+📫 **Get in touch:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjoah-emmanuella-36014b2aa)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safehemmanuella@gmail.com)
+
+💬 **Discord:** YourDiscord#0000  
+📝 **Blog:** https://yourblog.com
+
+</div>
+
+###
+
+<div align="center">
+
+### 🎯 Current Focus
+
+```ascii
+┌─ Currently Learning ─────────────────────────────────┐
+│ 📚 Advanced Generative AI & LLMs                    │
+│ 🚀 Prompt Engineering & Model Deployment            │
+└──────────────────────────────────────────────────────┘
+
+┌─ Open to Collaborate ────────────────────────────────┐
+│ 💡 AI projects with real-world impact               │
+│ 🤝 Research, hackathons, and open-source teams       │
+└──────────────────────────────────────────────────────┘
